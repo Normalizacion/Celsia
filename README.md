@@ -2,5 +2,9 @@ La aplicacion se va realizar en c# y su arquitectura sera MVC, se va a manejar l
 
 Link de AZURE
 
-https://dev.azure.com/riwi-official/celsia_assetsment_Daniel_Fernando_Toro_Londo%C3%B1o
+https://dev.azure.com/riwi-official/celsia_assetsment_Daniel_Fernando_Toro_Londo%C3%B1o/_backlogs/backlog/Product%20Manager%20Team/Stories
+
+https://dev.azure.com/riwi-official/business%20iniciatives/_backlogs/backlog/business%20iniciatives%20Team/Epics?System.AssignedTo=%40me
+
+
 
