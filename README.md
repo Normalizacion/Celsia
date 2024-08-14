@@ -1,3 +1,6 @@
+La aplicación se va a realizar en c# y su arquitectura será MVC, se va a manejar la base de datos en Clever Cloud y se planificara todo el proyecto en AZURE DEVOPS ya que es una herramientas muy práctica que sirve para automatizar e integrar los procesos que comparten. el equipo de desarrollo de software y el de TI.
+
 Link Azure
 
 https://dev.azure.com/riwi-official/celsia_assetsment_Daniel_Fernando_Toro_Londo%C3%B1o
+
