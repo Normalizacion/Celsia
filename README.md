@@ -1,6 +1,8 @@
 La aplicación se va a realizar en c# y su arquitectura será MVC, se va a manejar la base de datos en Clever Cloud y se planificara todo el proyecto en AZURE DEVOPS ya que es una herramientas muy práctica que sirve para automatizar e integrar los procesos que comparten. el equipo de desarrollo de software y el de TI.
 
-Link Azure
+Link de AZURE
 
-https://dev.azure.com/riwi-official/celsia_assetsment_Daniel_Fernando_Toro_Londo%C3%B1o
+https://dev.azure.com/riwi-official/celsia_assetsment_Daniel_Fernando_Toro_Londo%C3%B1o/_backlogs/backlog/Product%20Manager%20Team/Stories
+
+https://dev.azure.com/riwi-official/business%20iniciatives/_backlogs/backlog/business%20iniciatives%20Team/Epics?System.AssignedTo=%40me
 
